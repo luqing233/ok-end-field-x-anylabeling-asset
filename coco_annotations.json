@@ -1178,6 +1178,36 @@
       "file_name": "screenshot_20261015_144634.png",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "id": 241,
+      "file_name": "screenshot_20261017_100744.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "license": 0,
+      "url": null,
+      "file_name": "56.png",
+      "height": 1080,
+      "width": 1920,
+      "date_captured": null,
+      "id": 242
+    },
+    {
+      "license": 0,
+      "url": null,
+      "file_name": "67.png",
+      "height": 1080,
+      "width": 1920,
+      "date_captured": null,
+      "id": 243
+    },
+    {
+      "id": 244,
+      "file_name": "screenshot_20261021_190646.png",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "annotations": [
@@ -3351,6 +3381,19 @@
       "segmentation": []
     },
     {
+      "id": 159,
+      "image_id": 242,
+      "category_id": 290,
+      "bbox": [
+        64,
+        915,
+        20,
+        18
+      ],
+      "area": 360,
+      "iscrowd": 0
+    },
+    {
       "id": 160,
       "image_id": 25,
       "category_id": 198,
@@ -4237,6 +4280,32 @@
       "segmentation": []
     },
     {
+      "id": 226,
+      "image_id": 243,
+      "category_id": 291,
+      "bbox": [
+        1362,
+        732,
+        30,
+        31
+      ],
+      "area": 930,
+      "iscrowd": 0
+    },
+    {
+      "id": 227,
+      "image_id": 243,
+      "category_id": 287,
+      "bbox": [
+        944,
+        480,
+        30,
+        29
+      ],
+      "area": 870,
+      "iscrowd": 0
+    },
+    {
       "id": 228,
       "image_id": 138,
       "category_id": 47,
@@ -4325,6 +4394,19 @@
       "iscrowd": 0,
       "ignore": 0,
       "segmentation": []
+    },
+    {
+      "id": 234,
+      "image_id": 243,
+      "category_id": 285,
+      "bbox": [
+        972,
+        442,
+        23,
+        29
+      ],
+      "area": 667,
+      "iscrowd": 0
     },
     {
       "id": 240,
@@ -5091,6 +5173,32 @@
         46
       ],
       "area": 1702,
+      "iscrowd": 0
+    },
+    {
+      "id": 314,
+      "image_id": 241,
+      "category_id": 289,
+      "bbox": [
+        1828,
+        153,
+        29,
+        36
+      ],
+      "area": 1044,
+      "iscrowd": 0
+    },
+    {
+      "id": 315,
+      "image_id": 244,
+      "category_id": 292,
+      "bbox": [
+        1864,
+        556,
+        16,
+        19
+      ],
+      "area": 304,
       "iscrowd": 0
     }
   ],
@@ -6516,13 +6624,43 @@
       "supercategory": ""
     },
     {
+      "id": 285,
+      "name": "auto_farmer_on_map",
+      "supercategory": ""
+    },
+    {
       "id": 286,
       "name": "contact_si",
       "supercategory": ""
     },
     {
+      "id": 287,
+      "name": "ranch",
+      "supercategory": ""
+    },
+    {
       "id": 288,
       "name": "battle_icon_si",
+      "supercategory": ""
+    },
+    {
+      "id": 289,
+      "name": "next_person",
+      "supercategory": ""
+    },
+    {
+      "id": 290,
+      "name": "farm_related_icon",
+      "supercategory": ""
+    },
+    {
+      "id": 291,
+      "name": "auto_farmer",
+      "supercategory": ""
+    },
+    {
+      "id": 292,
+      "name": "login_in",
       "supercategory": ""
     }
   ]
